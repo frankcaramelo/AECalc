@@ -1,4 +1,4 @@
-# ArqEng TechCalc — Dossiê de Arquitetura de Software (20 Entregáveis)
+# ArqEng TechCalc
 
 Plataforma profissional de cálculos técnicos para Arquitetura, Urbanismo e Engenharia Civil com conformidade normativa ABNT/NBR, memoriais de cálculo auditáveis e arquitetura multiplataforma (Python 3.12 Desktop com Tkinter TTK + Web SPA/PWA em React 19 e TypeScript).
 
