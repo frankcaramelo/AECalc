@@ -1,0 +1,8 @@
+{
+  "name": "ArqEng TechCalc",
+  "description": "Plataforma robusta para cálculos de engenharia e arquitetura com suporte a normas técnicas, garantindo precisão e conformidade profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
